@@ -1,6 +1,6 @@
 - Hi, I’m Kok Eason (@easton06)
-- I’m interested in gaming
-- 🌱 I’m currently learning game development.
+- I’m interested in game development
+- 🌱 I’m currently learning [LÖVR](https://lovr.org/) game engine.
 - 💞️ I’m looking to collaborate on creating my new game.
 - 📫 Contact [@deveaston06](https://github.com/deveaston06) for professional business, this is my hobbyist account
 
